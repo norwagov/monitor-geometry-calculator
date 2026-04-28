@@ -6,7 +6,7 @@
 
 1. `git clone https://github.com/norwagov/monitor-geometry-calculator/`
 2. `cd monitor-geometry-calculator`
-3. `python monitor-geometry-calculator`
+3. `python monitor-geometry-calculator.py`
 
 ### 🎨 Example output
 
